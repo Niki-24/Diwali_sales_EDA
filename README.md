@@ -1,4 +1,4 @@
-![best-seller](https://github.com/user-attachments/assets/3aaccba5-b0d3-4c98-b19e-c332bcf1891f)![best-seller](https://github.com/user-attachments/assets/e7b49945-fd5c-4e9a-8c10-52505ef14724)# 🪔 Diwali Sales Data Analysis
+ 🪔 Diwali Sales Data Analysis
 
 This project performs an exploratory data analysis (EDA) on a retail sales dataset during the Diwali festival season. The objective is to uncover insights about customer purchasing behavior, product trends, and demographic impacts on sales to help drive business decisions.
 
